@@ -1,14 +1,26 @@
-layout_spectrum: 0.9764741745311767
-typography_spectrum: 0.9043360331561416
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.9242749
 color:
-  brandStrength: 0.2915270240046084
-  lightness: 0.33934057876467705
-  saturation: 0.3841984311584383
-  rhythmicContrast: 0.9631737745366991
+  saturation: 0.3915145
+  brandStrength: 0.7943072
+  lightness: 0.3393406
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#0B0D08'
+    - '#C1C5E0'
+    - '#FFFFFF'
+    - '#9395C5'
+    - '#453B3A'
+  rhythmicContrast: 0.9631737
+layout_spectrum: 1
 name: GauMedia
