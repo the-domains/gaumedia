@@ -1,0 +1,14 @@
+layout_spectrum: 0.9764741745311767
+typography_spectrum: 0.9043360331561416
+color:
+  brandStrength: 0.2915270240046084
+  lightness: 0.33934057876467705
+  saturation: 0.3841984311584383
+  rhythmicContrast: 0.9631737745366991
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: GauMedia
