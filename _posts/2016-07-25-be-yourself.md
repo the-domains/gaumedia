@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-26T18:09:30.630Z'
+datePublished: '2016-07-26T18:09:43.496Z'
 sourcePath: _posts/2016-07-25-be-yourself.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e73d335-9923-4e0a-81a7-3d4a393171b0.jpg
 author: []
 via: {}
-dateModified: '2016-07-26T18:09:30.530Z'
+dateModified: '2016-07-26T18:09:43.382Z'
 title: Ce que j’ai appris en lâchant l’école à 19 ans
 publisher: {}
 description: >-
